@@ -71,7 +71,7 @@ h1 	{
 <br>
 <?php
 function get_artist($country,$pg_size){
-    $data = file_get_contents("http://api.musixmatch.com/ws/1.1/chart.tracks.get?page=1&page_size=".$pg_size."&country=".$country."&apikey=5f6fff31699c524d735e4a463a1f109f&&format=xml");
+    $data = file_get_contents("http://api.musixmatch.com/ws/1.1/chart.tracks.get?page=1&page_size=".$pg_size."&country=".$country."&apikey=your_musixmatch_api_key&&format=xml");
     $soap = simplexml_load_string($data);
     $i=0;
     for($i=0;$i<$pg_size;$i++)
