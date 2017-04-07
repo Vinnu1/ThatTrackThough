@@ -4,7 +4,7 @@ That Track Though is a simple PHP, HTML and CSS project that we created for our 
 
 # Instructions
 
-* Get a Musixmatch API Key from [Musixmatch](developer.musixmatch.com).
+* Get a Musixmatch API Key from [Musixmatch](https://developer.musixmatch.com).
 * Enter the Key in the three files:
   * artistsearch.php
   * topsongs.php
@@ -24,7 +24,7 @@ That Track Though is a simple PHP, HTML and CSS project that we created for our 
 
 # API Used
 
-Musixmatch API available at [Musixmatch Developer](developer.musixmatch.com).
+Musixmatch API available at [Musixmatch Developer](https://developer.musixmatch.com).
 
 # About Us
 
