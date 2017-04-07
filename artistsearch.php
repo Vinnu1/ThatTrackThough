@@ -78,7 +78,7 @@ a:active {
 <div class=info>
 <?php
 function get_artist($name){
-    $data = file_get_contents("http://api.musixmatch.com/ws/1.1/artist.search?q_artist=".$name."&page_size=5&apikey=5f6fff31699c524d735e4a463a1f109f&&format=xml");
+    $data = file_get_contents("http://api.musixmatch.com/ws/1.1/artist.search?q_artist=".$name."&page_size=5&apikey=your_musixmatch_api_key&&format=xml");
     $soap = simplexml_load_string($data);
 	if($soap->header->available!=0)
 	{
