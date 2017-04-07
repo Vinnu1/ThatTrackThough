@@ -1,0 +1,48 @@
+<style>	
+footer
+{
+	text-align:center;
+	margin: 0 auto;
+	width: 250px;
+}
+h1
+	{
+		font-family: "Oswald";
+		color: black;
+	}
+h4
+	{
+		text-align: center;
+	}
+form 
+	{ 
+	text-align:center;
+	margin: 0 auto; 
+	width: 250px;
+	}
+input[type=text] 
+	{
+	text-align:center;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+	}
+input[type=text]:focus 
+	{
+    border: 3px solid #555;
+	}
+body 
+	{
+		background-image: url("bg.jpg");
+		background-color: #cccccc;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-position: center center;
+		font-family: "Open Sans";
+		color: white;
+		text-align:center;
+	}
+</style>
