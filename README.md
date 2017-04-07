@@ -30,4 +30,4 @@ Musixmatch API available at [Musixmatch Developer](developer.musixmatch.com).
 
 We're two programmers in-the-making and friends from India. We're both pursuing Computer Applications and are programming enthusiasts. More or less. We also blog. Yes, both of us.
 
-## Thank you for taking interest in our work! Please give credits if you use it.
+Thank you for taking interest in our work! Please give credits if you use it.
