@@ -32,6 +32,6 @@ We're two programmers in-the-making and friends from India. We're both pursuing 
 
 Thank you for taking interest in our work! Please give credits if you use it.
 
-## Live
+## Live Site
 
-Test the website live [here](http://vinayak.16mb.com/thattrackthough.php)
+Test the website live [here](http://vinayak.16mb.com/thattrackthough.php).
